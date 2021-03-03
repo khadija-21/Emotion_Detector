@@ -1,12 +1,3 @@
-git init
-git add .
-git commit -m "commentaire"
-git config --global user.name="khadija-21"
-git config --global user.email="khadijaelkadiri2013@gmail.com"
-
-git remode add origin https://.........................git
-git push origin master
-git pull origin master
 
 # Emotion_Detector
 
